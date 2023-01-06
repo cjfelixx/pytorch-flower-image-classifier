@@ -1,0 +1,13 @@
+name: ai
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - pandas
+  - pillow
+  - jupyterlab
+  - pytorch
+  - torchvision
